@@ -13,7 +13,7 @@ This repository tracks my learning progress with Selenium WebDriver and Python, 
 ## 🗺️ Project Structure
 
 ```
-python-selenium-workbook/
+selenium-python-workbook/
 ├── README.md (Main documentation)
 ├── learning-path/
 │   ├── 01-getting-started/
